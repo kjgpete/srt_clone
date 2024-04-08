@@ -83,7 +83,7 @@ setup(
       'autocorrect==0.4.4',
       'textblob==0.15.3',
       'redis==4.4.4',
-      'pymongo==3.10.0',
+      'pymongo==4.6.3',
       'SQLAlchemy==1.3.12',
       'PyMySQL==0.9.3'
 ]
