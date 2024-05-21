@@ -85,6 +85,6 @@ setup(
       'redis==4.4.4',
       'pymongo==3.10.0',
       'SQLAlchemy==1.3.12',
-      'PyMySQL==0.9.3'
+      'PyMySQL==1.1.1'
 ]
 )
